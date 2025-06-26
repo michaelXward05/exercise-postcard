@@ -1,0 +1,19 @@
+body {
+	background: black;
+}
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+.yellow {
+	background-color: yellow;
+}
+p {
+	background-color: orange;
+}
+.postcard {
+	width: 400px;
+	height: 300px;
+	background-color: white;
+	margin: auto;
+}

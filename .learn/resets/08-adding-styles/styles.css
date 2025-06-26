@@ -1,0 +1,5 @@
+body{
+    background: black;
+* {
+    bordered: 1px daashed red;
+    min-height: 10px;
